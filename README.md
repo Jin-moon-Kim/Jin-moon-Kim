@@ -1,6 +1,12 @@
 ### Hi there 👋
-
-
+---
+## Nice to See You 👀	
+---
+#### This page is only for Learning Web Programming.
+---
+## About My Self
+- I Like to Eat Korean BBQ espacially Pork.🐷
+<!-- 
 **Jin-moon-Kim/Jin-moon-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
